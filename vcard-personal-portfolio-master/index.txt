@@ -2,39 +2,50 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = 陈睿
+陈睿
+男  汉族
 
-Show Contacts
 
 Email
-richard@example.com
+1361523233@qq.com
 
-Phone
+电话
 15206294845
 
-Birthday
-June 23, 1982
+生日
+2002年1月27日
 
-Location
-Sacramento, California, USA
+位置
+中国—上海—浦东新区
 
 # navbar
 
-About
-Resume
-Portfolio
-Blog
-Contact
+关于自己
+教育/实习经历
+技能/证书
+作品集
+其他
 
 # about
 
-About me
+关于自己 
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+年龄：21岁
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+籍贯：江苏省-南通市
+
+政治面貌：共青团员
+
+现住地：上海市-浦东新区
+
+QQ:1361523233
+
+VX:15206294845
+
+求职意向：大世界内容策划
+
+年后到岗
 
 
 ## service
